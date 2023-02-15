@@ -75,3 +75,10 @@ feedback from the community to improve this package.
     plot(fc)
 
 <img src="./.github/images/pressure7-J1.png" width="60%" />
+
+# References :
+
+* Kourentzes N (2022). _tsintermittent: Intermittent Time Series Forecasting_. R package version 1.10, <https://CRAN.R-project.org/package=tsintermittent>.
+
+* Optimisation of the methods described in:
+N. Kourentzes, 2014, On intermittent demand model optimisation and selection, International Journal of Production Economics, 156: 180-190. <https://www.sciencedirect.com/science/article/abs/pii/S092552731400190X?via%3Dihub>. <https://kourentzes.com/forecasting/2014/06/11/on-intermittent-demand-model-optimisation-and-selection/>
