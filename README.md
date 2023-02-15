@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/akai01/IntermittentDemand.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/akai01/IntermittentDemand.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
 
-<img src="./.github/images/figure-markdown_strict/under_construction.png" width="60%" />
+<img src="/.github/images/under_construction.png" width="60%" />
 
 “IntermittentDemand” is a Julia package that provides functions for
 forecasting and analyzing intermittent time series, which are time
@@ -52,7 +52,7 @@ feedback from the community to improve this package.
     using Plots;
     plot(fc)
 
-<img src="./.github/images/figure-markdown_strict/pressure3-J1.png" width="60%" />
+<img src="./.github/images/pressure3-J1.png" width="60%" />
 
 ## Forecasting using Syntetos-Boylan approximation method
 
@@ -63,7 +63,7 @@ feedback from the community to improve this package.
     using Plots;
     plot(fc)
 
-<img src="./.github/images/figure-markdown_strict/pressure5-J1.png" width="60%" />
+<img src="./.github/images/pressure5-J1.png" width="60%" />
 
 ## Forecasting using Shale-Boylan-Johnston method
 
@@ -74,4 +74,4 @@ feedback from the community to improve this package.
     using Plots;
     plot(fc)
 
-<img src="./.github/images/figure-markdown_strict/pressure7-J1.png" width="60%" />
+<img src="./.github/images/pressure7-J1.png" width="60%" />
