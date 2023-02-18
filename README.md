@@ -13,10 +13,8 @@ series with long periods of zeros or near-zeros, and occasional non-zero
 observations.
 
 The package currently includes functions for forecasting intermittent
-time series using several methods, including Croston’s method,
-Syntetos-Boylan Approximation 1 and 2, Shale-Boylan-Johnston method, and
-more. Additionally, the package provides API for piloting the
-implemented methods.
+time series using following methods: Croston’s method, Syntetos-Boylan Approximation, Shale-Boylan-Johnston method. 
+Additionally, the package provides API for plotting the implemented methods.
 
 To install “IntermittentDemand”, you can clone the repository
 directly from GitHub. Open a Julia REPL and enter the following
